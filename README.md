@@ -61,9 +61,5 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alex16leiva&show_icons=true&locale=en" alt="alex16leiva" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex16leiva&" alt="alex16leiva" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alex16leiva&show_icons=true&locale=es" alt="Estadísticas de alex16leiva" />
 </p>
